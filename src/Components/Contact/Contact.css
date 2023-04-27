@@ -13,7 +13,7 @@ form {
     width: 100%;
 }
 
-input, textarea{
+.contact__container input, textarea{
     width: 100%;
     padding: 1.5rem;
     margin-top: 1rem;
